@@ -1,0 +1,10 @@
+# Folders
+/node_modules
+/build
+ 
+# Node dependencies
+package-lock.json
+
+# Logs
+logs
+*.log
